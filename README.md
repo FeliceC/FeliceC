@@ -25,3 +25,6 @@ Before going independent in 2026 I spent more than seven years at **Openmind** a
 The commit history is the story: `git log --reverse` reads it from the start.
 
 More at [felicecaricati.com](https://www.felicecaricati.com).
+
+<!-- psst. .dungeon -->
+
