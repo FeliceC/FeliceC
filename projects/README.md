@@ -30,6 +30,12 @@ Website for a window and door manufacturer, with an admin panel the client uses 
 
 `Next.js` `Payload CMS` `PostgreSQL` `Tailwind` · Client work
 
+## [Dott.ssa Laura Monacò](https://www.lauramonacopsicoterapeuta.it/)
+
+Website for a psychotherapist, bilingual, with articles and an admin panel where the client plans topics on a calendar and writes articles and Instagram and Facebook posts, with a preview of each.
+
+`Next.js` `TypeScript` `Neon` `Drizzle` `Tiptap` · Client work
+
 # Just for fun
 
 ## [Spray](https://spray-rvap.vercel.app/)
