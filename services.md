@@ -2,7 +2,7 @@
 
 ## Salesforce Commerce Cloud B2C
 
-SFCC storefronts from architecture to go-live, custom integrations included, plus optimisation of the ones already in production.
+SFCC storefronts for fashion and retail brands, from architecture to go-live, custom integrations included, plus optimisation of the ones already in production.
 
 ## Frontend architecture
 

@@ -1,3 +1,17 @@
+# Client work
+
+## [Serramenti Civili e Industriali](https://www.serramenticivilieindustriali.it/)
+
+Website for a window and door manufacturer, with an admin panel the client uses to update products, technical sheets, services and past work on their own.
+
+`Next.js` `Payload CMS` `PostgreSQL` `Tailwind`
+
+## [Dott.ssa Laura Monacò](https://www.lauramonacopsicoterapeuta.it/)
+
+Website for a psychotherapist, bilingual, with articles and an admin panel where the client plans topics on a calendar and writes articles and Instagram and Facebook posts, with a preview of each.
+
+`Next.js` `TypeScript` `Neon` `Drizzle` `Tiptap`
+
 # Personal projects
 
 ## [Quote-o-matics](https://www.quote-o-matics.cloud/)
@@ -23,18 +37,6 @@ Wedding websites for couples who don't want to deal with a site builder. They ch
 An open source library that brings parts of an HTML page to life without adopting a framework: mark an element and its code loads on its own. Try it in the interactive demo.
 
 `TypeScript` `GitHub Pages` · Open source (MIT) · [source](https://github.com/FeliceC/html-scoped-component-importer) · [npm](https://www.npmjs.com/package/html-scoped-component-importer)
-
-## [Serramenti Civili e Industriali](https://www.serramenticivilieindustriali.it/)
-
-Website for a window and door manufacturer, with an admin panel the client uses to update products, technical sheets, services and past work on their own.
-
-`Next.js` `Payload CMS` `PostgreSQL` `Tailwind` · Client work
-
-## [Dott.ssa Laura Monacò](https://www.lauramonacopsicoterapeuta.it/)
-
-Website for a psychotherapist, bilingual, with articles and an admin panel where the client plans topics on a calendar and writes articles and Instagram and Facebook posts, with a preview of each.
-
-`Next.js` `TypeScript` `Neon` `Drizzle` `Tiptap` · Client work
 
 # Just for fun
 
